@@ -2,16 +2,33 @@
 
 * [Home](README.md)
 * [Mislenaous](mislenaous/README.md)
+  * [Hot configuration deployment](mislenaous/hot-configuration-deployment.md)
+  * [Annotation](mislenaous/annotation.md)
   * [Env variable](mislenaous/env-variable.md)
 
 ## Languages
 
 * [Java](languages/untitled/README.md)
+  * [Abstract vs interface](languages/untitled/abstract-vs-interface.md)
   * [ClassLoading](languages/untitled/classloading.md)
   * [Reflection](languages/untitled/reflection.md)
 
 ## Frameworks
 
+* [Shell](frameworks/shell/README.md)
+  * [Windows](frameworks/shell/windows/README.md)
+    * [GO TO LABEL](frameworks/shell/windows/go-to-label.md)
+  * [原理](frameworks/shell/yuan-li.md)
+* [Message Queue](frameworks/message-queue/README.md)
+  * [Kafka](frameworks/message-queue/kafka/README.md)
+    * [Serialize/Deserialize](frameworks/message-queue/kafka/serialize-deserialize.md)
+    * [Consumer](frameworks/message-queue/kafka/consumer.md)
+    * [Producer](frameworks/message-queue/kafka/producer/README.md)
+      * [Load balancing](frameworks/message-queue/kafka/producer/load-balancing.md)
+    * [Misc](frameworks/message-queue/kafka/misc.md)
+    * [Zookeeper in Kakfa](frameworks/message-queue/kafka/zookeeper-in-kakfa.md)
+    * [Partition ordering](frameworks/message-queue/kafka/partition-ordering.md)
+    * [Architecture](frameworks/message-queue/kafka/architecture.md)
 * [Frontend](frameworks/frontend/README.md)
   * [Client Side Rendering vs Server Side Rendering](frameworks/frontend/client-side-rendering-vs-server-side-rendering/README.md)
     * [Intro](frameworks/frontend/client-side-rendering-vs-server-side-rendering/intro.md)
@@ -27,6 +44,8 @@
       * [Intro](frameworks/distributed-system/coordinator/zookeeper/intro.md)
       * [Dynamic reconfiguration](frameworks/distributed-system/coordinator/zookeeper/dynamic-reconfiguration.md)
 * [Database](frameworks/database/README.md)
+  * [Misc](frameworks/database/misc/README.md)
+    * [Semi structured data](frameworks/database/misc/semi-structured-data.md)
   * [Relational](frameworks/database/relational/README.md)
     * [Sharding](frameworks/database/relational/sharding.md)
     * [Join](frameworks/database/relational/join/README.md)
@@ -35,8 +54,13 @@
     * [Connect to remote DB](frameworks/database/relational/connect-to-remote-db.md)
     * [Low level](frameworks/database/relational/low-level.md)
     * [Clustered vs NonClustered Index](frameworks/database/relational/clustered-vs-nonclustered-index.md)
-  * [hbase](frameworks/database/hbase.md)
-  * [Hadoop](frameworks/database/hadoop.md)
+  * [Non relational](frameworks/database/non-relational.md)
+  * [Big data](frameworks/database/big-data/README.md)
+    * [Hadoop](frameworks/database/big-data/hadoop.md)
+    * [Hbase](frameworks/database/big-data/hbase/README.md)
+      * [Video intro](frameworks/database/big-data/hbase/video-intro.md)
+      * [Quick Intro](frameworks/database/big-data/hbase/quick-intro.md)
+      * [Deep intro](frameworks/database/big-data/hbase/deep-intro.md)
   * [Database vs FileSystem](frameworks/database/database-vs-filesystem.md)
 
 ## CS fundamentals
