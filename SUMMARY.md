@@ -62,6 +62,7 @@
       * [Quick Intro](frameworks/database/big-data/hbase/quick-intro.md)
       * [Deep intro](frameworks/database/big-data/hbase/deep-intro.md)
   * [Database vs FileSystem](frameworks/database/database-vs-filesystem.md)
+  * [Row storage vs Column storage](frameworks/database/row-storage-vs-column-storage.md)
 
 ## CS fundamentals
 
