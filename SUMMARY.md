@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [Mislenaous](mislenaous/README.md)
+  * [String Hashing](mislenaous/string-hashing.md)
   * [Thundering herd - high load to request same data](mislenaous/thundering-herd-high-load-to-request-same-data.md)
   * [Compression](mislenaous/compression.md)
   * [Serialize/Deserialize](mislenaous/serialize-deserialize.md)
@@ -17,6 +18,7 @@
   * [Abstract vs interface](languages/untitled/abstract-vs-interface.md)
   * [ClassLoading](languages/untitled/classloading.md)
   * [Reflection](languages/untitled/reflection.md)
+  * [HashMap implementation](languages/untitled/hashmap-implementation.md)
 
 ## Frameworks
 
