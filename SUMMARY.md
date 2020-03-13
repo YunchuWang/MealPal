@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [Mislenaous](mislenaous/README.md)
+  * [Thundering herd - high load to request same data](mislenaous/thundering-herd-high-load-to-request-same-data.md)
   * [Compression](mislenaous/compression.md)
   * [Serialize/Deserialize](mislenaous/serialize-deserialize.md)
   * [Hot configuration deployment](mislenaous/hot-configuration-deployment.md)
@@ -38,7 +39,8 @@
     * [Intro](frameworks/frontend/client-side-rendering-vs-server-side-rendering/intro.md)
 * [Backend](frameworks/untitled/README.md)
   * [Spring MVC](frameworks/untitled/spring-mvc.md)
-  * [Spring](frameworks/untitled/spring.md)
+  * [Spring](frameworks/untitled/spring/README.md)
+    * [Load bean](frameworks/untitled/spring/load-bean.md)
   * [Spring Boot](frameworks/untitled/spring-boot.md)
 * [Web Server](frameworks/web-server.md)
 * [Distributed system](frameworks/distributed-system/README.md)
