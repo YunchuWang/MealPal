@@ -2,6 +2,8 @@
 
 * [Home](README.md)
 * [Mislenaous](mislenaous/README.md)
+  * [Compression](mislenaous/compression.md)
+  * [Serialize/Deserialize](mislenaous/serialize-deserialize.md)
   * [Hot configuration deployment](mislenaous/hot-configuration-deployment.md)
   * [Annotation](mislenaous/annotation.md)
   * [Env variable](mislenaous/env-variable.md)
@@ -9,6 +11,8 @@
 ## Languages
 
 * [Java](languages/untitled/README.md)
+  * [Dynamic proxy](languages/untitled/dynamic-proxy.md)
+  * [Event](languages/untitled/event.md)
   * [Abstract vs interface](languages/untitled/abstract-vs-interface.md)
   * [ClassLoading](languages/untitled/classloading.md)
   * [Reflection](languages/untitled/reflection.md)
