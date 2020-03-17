@@ -1,7 +1,11 @@
 # Table of contents
 
 * [Home](README.md)
+* [Projects](projects/README.md)
+  * [Java](projects/java/README.md)
+    * [Open source](projects/java/open-source.md)
 * [Mislenaous](mislenaous/README.md)
+  * [Linux subsystem](mislenaous/linux-subsystem.md)
   * [String Hashing](mislenaous/string-hashing.md)
   * [Thundering herd - high load to request same data](mislenaous/thundering-herd-high-load-to-request-same-data.md)
   * [Compression](mislenaous/compression.md)
@@ -66,6 +70,7 @@
   * [Big data](frameworks/database/big-data/README.md)
     * [Hadoop](frameworks/database/big-data/hadoop.md)
     * [Hbase](frameworks/database/big-data/hbase/README.md)
+      * [Query](frameworks/database/big-data/hbase/query.md)
       * [Video intro](frameworks/database/big-data/hbase/video-intro.md)
       * [Quick Intro](frameworks/database/big-data/hbase/quick-intro.md)
       * [Deep intro](frameworks/database/big-data/hbase/deep-intro.md)
