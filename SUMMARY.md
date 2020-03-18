@@ -95,6 +95,7 @@
 
 ## Interviews
 
+* [System design](interviews/system-design.md)
 * [Best questions to ask interviewers](interviews/untitled.md)
 * [Ebay](interviews/ebay.md)
 * [Indeed](interviews/indeed.md)
