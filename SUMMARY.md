@@ -6,6 +6,7 @@
   * [Java](projects/java/README.md)
     * [Open source](projects/java/open-source.md)
 * [Mislenaous](mislenaous/README.md)
+  * [Threadlocal](mislenaous/threadlocal.md)
   * [Big data sort](mislenaous/big-data-sort.md)
   * [Linux subsystem](mislenaous/linux-subsystem.md)
   * [String Hashing](mislenaous/string-hashing.md)
@@ -19,6 +20,8 @@
 ## Languages
 
 * [Java](languages/untitled/README.md)
+  * [Exception](languages/untitled/exception.md)
+  * [Untitled](languages/untitled/untitled.md)
   * [Dynamic proxy](languages/untitled/dynamic-proxy.md)
   * [Event](languages/untitled/event.md)
   * [Abstract vs interface](languages/untitled/abstract-vs-interface.md)
