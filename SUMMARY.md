@@ -87,6 +87,7 @@
   * [Big data](frameworks/database/big-data/README.md)
     * [Hadoop](frameworks/database/big-data/hadoop.md)
     * [Hbase](frameworks/database/big-data/hbase/README.md)
+      * [RowKey selection](frameworks/database/big-data/hbase/rowkey-selection.md)
       * [Query](frameworks/database/big-data/hbase/query.md)
       * [Video intro](frameworks/database/big-data/hbase/video-intro.md)
       * [Quick Intro](frameworks/database/big-data/hbase/quick-intro.md)
