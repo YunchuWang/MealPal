@@ -115,7 +115,8 @@
 ## Interviews
 
 * [Interview guide](interviews/interview-guide.md)
-* [System design](interviews/system-design.md)
+* [System design](interviews/system-design/README.md)
+  * [User system](interviews/system-design/user-system.md)
 * [Best questions to ask interviewers](interviews/untitled.md)
 * [Ebay](interviews/ebay.md)
 * [Indeed](interviews/indeed.md)
