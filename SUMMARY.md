@@ -134,5 +134,6 @@
 ## Learning
 
 * [Online course](learning/untitled/README.md)
+  * [Training](learning/untitled/training.md)
   * [Chinese learning sites](learning/untitled/chinese-sites.md)
 
