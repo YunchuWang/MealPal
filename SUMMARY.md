@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [Projects](projects/README.md)
+  * [E mall application](projects/e-mall-application.md)
   * [Virtual wallet application](projects/virtual-wallet-application.md)
   * [Java](projects/java/README.md)
     * [Open source](projects/java/open-source.md)
@@ -51,6 +52,10 @@
   * [Client Side Rendering vs Server Side Rendering](frameworks/frontend/client-side-rendering-vs-server-side-rendering/README.md)
     * [Intro](frameworks/frontend/client-side-rendering-vs-server-side-rendering/intro.md)
 * [Backend](frameworks/untitled/README.md)
+  * [Spring Cloud](frameworks/untitled/spring-cloud.md)
+  * [Misc](frameworks/untitled/misc/README.md)
+    * [Get api design](frameworks/untitled/misc/get-api-design.md)
+    * [Calling another service](frameworks/untitled/misc/calling-another-service.md)
   * [Uml](frameworks/untitled/uml.md)
   * [Microservice](frameworks/untitled/microservice-1.md)
   * [Artifact repository](frameworks/untitled/artifact-repository.md)
