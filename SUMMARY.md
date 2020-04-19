@@ -41,6 +41,7 @@
   * [原理](frameworks/shell/yuan-li.md)
 * [Message Queue](frameworks/message-queue/README.md)
   * [Kafka](frameworks/message-queue/kafka/README.md)
+    * [Load balancing](frameworks/message-queue/kafka/load-balancing.md)
     * [Serialize/Deserialize](frameworks/message-queue/kafka/serialize-deserialize.md)
     * [Consumer](frameworks/message-queue/kafka/consumer.md)
     * [Producer](frameworks/message-queue/kafka/producer/README.md)
