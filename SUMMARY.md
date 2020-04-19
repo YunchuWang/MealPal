@@ -152,6 +152,8 @@
 
 ## Learning
 
+* [Books](learning/books/README.md)
+  * [A list of good books for developers](learning/books/a-list-of-good-books-for-developers.md)
 * [Online course](learning/untitled/README.md)
   * [Training](learning/untitled/training.md)
   * [Chinese learning sites](learning/untitled/chinese-sites.md)
