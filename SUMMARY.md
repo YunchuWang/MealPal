@@ -93,6 +93,7 @@
   * [CAP](frameworks/distributed-system/cap.md)
   * [Coordinator](frameworks/distributed-system/coordinator/README.md)
     * [ZooKeeper](frameworks/distributed-system/coordinator/zookeeper/README.md)
+      * [Log](frameworks/distributed-system/coordinator/zookeeper/log.md)
       * [Intro](frameworks/distributed-system/coordinator/zookeeper/intro.md)
       * [Dynamic reconfiguration](frameworks/distributed-system/coordinator/zookeeper/dynamic-reconfiguration.md)
 * [Database](frameworks/database/README.md)
