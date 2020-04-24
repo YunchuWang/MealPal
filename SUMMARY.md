@@ -112,6 +112,7 @@
   * [Big data](frameworks/database/big-data/README.md)
     * [Hadoop](frameworks/database/big-data/hadoop.md)
     * [Hbase](frameworks/database/big-data/hbase/README.md)
+      * [Zookeeper connection issue](frameworks/database/big-data/hbase/zookeeper-connection-issue.md)
       * [process](frameworks/database/big-data/hbase/process.md)
       * [RowKey selection](frameworks/database/big-data/hbase/rowkey-selection.md)
       * [Query](frameworks/database/big-data/hbase/query.md)
