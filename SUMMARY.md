@@ -145,6 +145,7 @@
 
 * [Interview guide](interviews/interview-guide.md)
 * [System design](interviews/system-design/README.md)
+  * [Resource](interviews/system-design/resource.md)
   * [User system](interviews/system-design/user-system.md)
 * [Best questions to ask interviewers](interviews/untitled.md)
 * [Ebay](interviews/ebay.md)
