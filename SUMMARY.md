@@ -130,6 +130,7 @@
   * [Linkers](cs-fundamentals/compiler/linkers/README.md)
     * [Dynamic vs static linking](cs-fundamentals/compiler/linkers/dynamic-vs-static-linking.md)
 * [Networking](cs-fundamentals/networking/README.md)
+  * [Course](cs-fundamentals/networking/course.md)
   * [连接超时](cs-fundamentals/networking/lian-jie-chao-shi.md)
   * [Intro](cs-fundamentals/networking/intro.md)
 * [OS](cs-fundamentals/untitled/README.md)
