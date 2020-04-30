@@ -130,6 +130,7 @@
   * [Linkers](cs-fundamentals/compiler/linkers/README.md)
     * [Dynamic vs static linking](cs-fundamentals/compiler/linkers/dynamic-vs-static-linking.md)
 * [Networking](cs-fundamentals/networking/README.md)
+  * [Book and labs](cs-fundamentals/networking/book-and-labs.md)
   * [Traceroute - finding all routers to a host](cs-fundamentals/networking/untitled.md)
   * [上网流程](cs-fundamentals/networking/shang-wang-liu-cheng.md)
   * [Course](cs-fundamentals/networking/course.md)
