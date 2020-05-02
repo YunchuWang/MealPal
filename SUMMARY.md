@@ -97,6 +97,8 @@
       * [Intro](frameworks/distributed-system/coordinator/zookeeper/intro.md)
       * [Dynamic reconfiguration](frameworks/distributed-system/coordinator/zookeeper/dynamic-reconfiguration.md)
 * [Database](frameworks/database/README.md)
+  * [Sharding](frameworks/database/sharding/README.md)
+    * [Consistent hashing](frameworks/database/sharding/consistent-hashing.md)
   * [Db comparison](frameworks/database/db-comparison.md)
   * [Misc](frameworks/database/misc/README.md)
     * [Semi structured data](frameworks/database/misc/semi-structured-data.md)
