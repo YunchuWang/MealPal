@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Home](README.md)
+* [Hardware repair](hardware-repair/README.md)
+  * [Untitled](hardware-repair/untitled.md)
 * [Projects](projects/README.md)
   * [Miaosha](projects/miaosha.md)
   * [E mall application](projects/e-mall-application.md)
