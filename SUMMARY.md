@@ -2,8 +2,7 @@
 
 * [Home](README.md)
 * [Hardware repair](hardware-repair/README.md)
-  * [Theories](hardware-repair/untitled/README.md)
-    * [Circuits](hardware-repair/untitled/circuits.md)
+  * [Theories](hardware-repair/untitled.md)
 * [Projects](projects/README.md)
   * [Miaosha](projects/miaosha.md)
   * [E mall application](projects/e-mall-application.md)
