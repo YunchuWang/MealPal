@@ -157,6 +157,7 @@
 
 ## Interviews
 
+* [Sharing](interviews/sharing.md)
 * [Interview guide](interviews/interview-guide.md)
 * [System design](interviews/system-design/README.md)
   * [Chat system](interviews/system-design/chat-system/README.md)
