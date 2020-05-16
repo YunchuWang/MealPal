@@ -57,6 +57,8 @@
   * [Client Side Rendering vs Server Side Rendering](frameworks/frontend/client-side-rendering-vs-server-side-rendering/README.md)
     * [Intro](frameworks/frontend/client-side-rendering-vs-server-side-rendering/intro.md)
 * [Backend Service](frameworks/untitled/README.md)
+  * [Circuit breaker and downgrading and rate limiting](frameworks/untitled/circuit-breaker-and-downgrading/README.md)
+    * [Concepts](frameworks/untitled/circuit-breaker-and-downgrading/concepts.md)
   * [Multithreading](frameworks/untitled/multithreading/README.md)
     * [Thread safety](frameworks/untitled/multithreading/thread-safety.md)
   * [Distributed locking](frameworks/untitled/distributed-locking/README.md)
