@@ -10,5 +10,7 @@ User -&gt; API Gateway -&gt; check auth with auth service -&gt; route requests t
 
 {% embed url="https://www.twblogs.net/a/5db3081dbd9eee310ee660d1" %}
 
+{% embed url="https://blog.csdn.net/MongolianWolf/article/details/94329980" %}
+
 
 
