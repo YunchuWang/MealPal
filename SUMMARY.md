@@ -161,6 +161,7 @@
   * [连接超时](cs-fundamentals/networking/lian-jie-chao-shi.md)
   * [Intro](cs-fundamentals/networking/intro.md)
 * [OS](cs-fundamentals/untitled/README.md)
+  * [Resources](cs-fundamentals/untitled/resources.md)
   * [IO buffer](cs-fundamentals/untitled/io-buffer.md)
   * [Interrupt](cs-fundamentals/untitled/interrupt.md)
   * [IPC - Interprocess communication](cs-fundamentals/untitled/ipc-interprocess-communication/README.md)
