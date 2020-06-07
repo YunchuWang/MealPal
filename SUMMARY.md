@@ -179,6 +179,7 @@
 * [Sharing](interviews/sharing.md)
 * [Interview guide](interviews/interview-guide.md)
 * [System design](interviews/system-design/README.md)
+  * [Design template](interviews/system-design/design-template.md)
   * [Software design flow](interviews/system-design/software-design-flow.md)
   * [Chat system](interviews/system-design/chat-system/README.md)
     * [Offline process](interviews/system-design/chat-system/offline-process.md)
