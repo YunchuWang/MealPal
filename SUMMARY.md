@@ -42,6 +42,7 @@
 
 ## Frameworks
 
+* [State machine](frameworks/state-machine.md)
 * [Git](frameworks/git.md)
 * [Shell](frameworks/shell/README.md)
   * [Windows](frameworks/shell/windows/README.md)
