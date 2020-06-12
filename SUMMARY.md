@@ -184,6 +184,7 @@
 * [Sharing](interviews/sharing.md)
 * [Interview guide](interviews/interview-guide.md)
 * [System design](interviews/system-design/README.md)
+  * [Sequence diagram](interviews/system-design/sequence-diagram.md)
   * [Example Designs](interviews/system-design/example-designs.md)
   * [Design template](interviews/system-design/design-template.md)
   * [Software design flow](interviews/system-design/software-design-flow.md)
