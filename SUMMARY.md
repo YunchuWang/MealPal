@@ -52,6 +52,7 @@
   * [Client Side Rendering vs Server Side Rendering](frameworks/frontend/client-side-rendering-vs-server-side-rendering/README.md)
     * [Intro](frameworks/frontend/client-side-rendering-vs-server-side-rendering/intro.md)
 * [Backend Service](frameworks/untitled/README.md)
+  * [Logging](frameworks/untitled/logging.md)
   * [Batch job](frameworks/untitled/batch-job.md)
   * [Message Queue](frameworks/untitled/message-queue/README.md)
     * [Kafka](frameworks/untitled/message-queue/kafka/README.md)
