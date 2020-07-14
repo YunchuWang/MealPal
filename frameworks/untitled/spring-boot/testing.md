@@ -6,5 +6,5 @@
 
 {% embed url="https://www.springboottutorial.com/spring-boot-and-h2-in-memory-database" %}
 
-
+unit test 测试行为，根据你能想到的情况准备input 或者side effect， 然后测试结果是不是和预想一样。
 
