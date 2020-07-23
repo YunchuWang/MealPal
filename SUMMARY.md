@@ -44,7 +44,8 @@
 ## Frameworks
 
 * [State machine](frameworks/state-machine.md)
-* [Git](frameworks/git.md)
+* [Git](frameworks/git/README.md)
+  * [Branching](frameworks/git/branching.md)
 * [Shell](frameworks/shell/README.md)
   * [Windows](frameworks/shell/windows/README.md)
     * [GO TO LABEL](frameworks/shell/windows/go-to-label.md)
