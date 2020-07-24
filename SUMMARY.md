@@ -53,6 +53,8 @@
 * [Frontend](frameworks/frontend/README.md)
   * [Client Side Rendering vs Server Side Rendering](frameworks/frontend/client-side-rendering-vs-server-side-rendering/README.md)
     * [Intro](frameworks/frontend/client-side-rendering-vs-server-side-rendering/intro.md)
+* [Devops](frameworks/devops/README.md)
+  * [CICD](frameworks/devops/cicd.md)
 * [Backend Service](frameworks/untitled/README.md)
   * [SSH](frameworks/untitled/ssh.md)
   * [SSL](frameworks/untitled/ssl.md)
