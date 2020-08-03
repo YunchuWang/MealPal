@@ -164,6 +164,7 @@
 
 ## CS fundamentals
 
+* [Security](cs-fundamentals/security.md)
 * [Compiler](cs-fundamentals/compiler/README.md)
   * [Interpreter vs compiler](cs-fundamentals/compiler/interpreter-vs-compiler.md)
   * [Linkers](cs-fundamentals/compiler/linkers/README.md)
