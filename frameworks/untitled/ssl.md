@@ -8,7 +8,11 @@
 
 this article is so good - top article to read to understand SSL 
 
-[https://www.jianshu.com/p/e2f2c3043c87](https://www.jianshu.com/p/e2f2c3043c87)
+{% embed url="https://www.jianshu.com/p/e2f2c3043c87" %}
+
+
+
+{% embed url="https://www.zhihu.com/question/24294477" %}
 
 
 
