@@ -182,7 +182,7 @@
   * [Intro](cs-fundamentals/networking/intro.md)
 * [OS](cs-fundamentals/untitled/README.md)
   * [File System](cs-fundamentals/untitled/file-system/README.md)
-    * [Role vs permissions](cs-fundamentals/untitled/file-system/role-vs-permissions.md)
+    * [Role vs policy](cs-fundamentals/untitled/file-system/role-vs-permissions.md)
     * [Linux](cs-fundamentals/untitled/file-system/linux.md)
   * [Process](cs-fundamentals/untitled/process.md)
   * [Resources](cs-fundamentals/untitled/resources.md)
