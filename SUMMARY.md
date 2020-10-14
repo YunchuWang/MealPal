@@ -202,6 +202,8 @@
 * [Sharing](interviews/sharing.md)
 * [Interview guide](interviews/interview-guide.md)
 * [System design](interviews/system-design/README.md)
+  * [Domain driven design](interviews/system-design/domain-driven-design/README.md)
+    * [Domain objects](interviews/system-design/domain-driven-design/domain-objects.md)
   * [Sequence diagram](interviews/system-design/sequence-diagram.md)
   * [Example Designs](interviews/system-design/example-designs.md)
   * [Design template](interviews/system-design/design-template.md)
