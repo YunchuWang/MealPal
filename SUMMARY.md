@@ -228,6 +228,11 @@
 * [Dfs](leetcode/dfs.md)
 * [DivideConquer](leetcode/divideconquer.md)
 * [Graph](leetcode/graph.md)
+* [HashTable](leetcode/hashtable.md)
+* [Recursion](leetcode/recursion.md)
+* [Tree](leetcode/tree.md)
+* [Stack](leetcode/stack.md)
+* [Two Pointer](leetcode/two-pointer.md)
 
 ## Learning
 
