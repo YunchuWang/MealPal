@@ -219,6 +219,7 @@
 
 ## Leetcode
 
+* [Good resources](leetcode/good-resources.md)
 * [Array](leetcode/untitled.md)
 * [Backtracking](leetcode/backtracking.md)
 * [BinarySearch](leetcode/binarysearch.md)
