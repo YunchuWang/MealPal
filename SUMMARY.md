@@ -224,6 +224,7 @@
 * [BinarySearch](leetcode/binarysearch.md)
 * [Bfs](leetcode/bfs.md)
 * [BitManipulation](leetcode/bitmanipulation.md)
+* [Dynamic programming](leetcode/dynamic-programming.md)
 * [Dfs](leetcode/dfs.md)
 * [DivideConquer](leetcode/divideconquer.md)
 
