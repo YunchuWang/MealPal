@@ -219,7 +219,10 @@
 
 ## Leetcode
 
-* [Untitled](leetcode/untitled.md)
+* [Array](leetcode/untitled.md)
+* [Backtracking](leetcode/backtracking.md)
+* [BinarySearch](leetcode/binarysearch.md)
+* [BitManipulation](leetcode/bitmanipulation.md)
 
 ## Learning
 
