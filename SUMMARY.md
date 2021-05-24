@@ -222,7 +222,10 @@
 * [Array](leetcode/untitled.md)
 * [Backtracking](leetcode/backtracking.md)
 * [BinarySearch](leetcode/binarysearch.md)
+* [Bfs](leetcode/bfs.md)
 * [BitManipulation](leetcode/bitmanipulation.md)
+* [Dfs](leetcode/dfs.md)
+* [DivideConquer](leetcode/divideconquer.md)
 
 ## Learning
 
