@@ -233,6 +233,7 @@
 * [Tree](leetcode/tree.md)
 * [Stack](leetcode/stack.md)
 * [Two Pointer](leetcode/two-pointer.md)
+* [Heap](leetcode/heap.md)
 
 ## Learning
 
