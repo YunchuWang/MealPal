@@ -204,7 +204,7 @@
 * [Sharing](interviews/sharing.md)
 * [Interview guide](interviews/interview-guide.md)
 * [System design](interviews/system-design/README.md)
-  * [打卡](interviews/system-design/da-ka.md)
+  * [思路](interviews/system-design/da-ka.md)
   * [Fundamentals](interviews/system-design/fundamentals.md)
   * [Topics](interviews/system-design/topics/README.md)
     * [Chat system](interviews/system-design/topics/chat-system/README.md)
