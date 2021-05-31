@@ -1,4 +1,6 @@
 # Good resources
 
-[https://github.com/selfboot/LeetCode](https://github.com/selfboot/LeetCode)
+{% embed url="https://github.com/selfboot/LeetCode" %}
+
+
 
