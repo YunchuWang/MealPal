@@ -6,5 +6,9 @@
 
  [Software Architecture Monday — Mark Richards — YouTube](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar)
 
+{% embed url="https://www.1point3acres.com/bbs/thread-208829-1-1.html" %}
+
+
+
 
 
