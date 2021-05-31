@@ -210,8 +210,6 @@
       * [Offline process](interviews/system-design/topics/chat-system/offline-process.md)
     * [User system](interviews/system-design/topics/user-system/README.md)
       * [Token authenication](interviews/system-design/topics/user-system/token-authenication.md)
-  * [Domain driven design](interviews/system-design/domain-driven-design/README.md)
-    * [Domain objects](interviews/system-design/domain-driven-design/domain-objects.md)
   * [Example Designs](interviews/system-design/example-designs.md)
   * [Design template](interviews/system-design/design-template.md)
   * [Software design flow](interviews/system-design/software-design-flow.md)
