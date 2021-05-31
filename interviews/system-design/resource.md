@@ -8,7 +8,9 @@
 
 {% embed url="https://www.1point3acres.com/bbs/thread-208829-1-1.html" %}
 
-[https://www.1point3acres.com/bbs/thread-537998-1-1.html](https://www.1point3acres.com/bbs/thread-537998-1-1.html)
+{% embed url="https://www.1point3acres.com/bbs/thread-537998-1-1.html" %}
+
+
 
 
 
