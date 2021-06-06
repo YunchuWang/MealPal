@@ -207,6 +207,7 @@
   * [思路](interviews/system-design/da-ka.md)
   * [打卡](interviews/system-design/da-ka-1.md)
   * [Fundamentals](interviews/system-design/fundamentals/README.md)
+    * [Scalability](interviews/system-design/fundamentals/scalability.md)
     * [http push vs pull](interviews/system-design/fundamentals/http-push-vs-pull.md)
   * [Topics](interviews/system-design/topics/README.md)
     * [Chat system](interviews/system-design/topics/chat-system/README.md)
