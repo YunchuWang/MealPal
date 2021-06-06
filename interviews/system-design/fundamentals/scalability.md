@@ -16,3 +16,7 @@ response time can be affected by many variations: context switch, loss of tpc pa
 
 
 
+Every magniture of load require rethink of architecture. We want to distribute load across different machines named shared nothing architecture. 
+
+
+
