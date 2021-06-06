@@ -18,6 +18,10 @@ Push:
 
 Example push notification and nginx server \( check 阮一峰）
 
+{% embed url="https://developers.google.com/web/fundamentals/push-notifications/how-push-works" %}
+
+
+
 Long persistent connection between c/s
 
 Client send request to init and maintain connection with server, when server has update, it sends updates to client. Client need to define listener to handle update
