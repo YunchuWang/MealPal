@@ -12,7 +12,7 @@ throughput: number of records processed per second or total time take to process
 
 response time: time taken to process a request and get response
 
-response time can be affected by many variations: context switch, loss of tpc packet,  gc pause,etc therefore we measure by percentile. Percentile is percentage of requests slower than certain response time. ex. p99 means 99% of requests are faster than a time. Reducing a higher percentile is very hard and expensive.
+response time can be affected by many variations: context switch, loss of tpc packet,  gc pause, etc therefore we measure by percentile. Percentile is percentage of requests slower than certain response time. ex. p99 means 99% of requests are faster than a time. Reducing a higher percentile is very hard and expensive.
 
 
 
