@@ -6,5 +6,7 @@
 
 {% embed url="https://github.com/labuladong/fucking-algorithm" %}
 
+{% embed url="http://chen-tao.github.io/2017/01/27/al-template/" %}
+
 
 
