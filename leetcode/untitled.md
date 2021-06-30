@@ -1,5 +1,11 @@
 # Array
 
+Questions:
+
+35, 27,209,59
+
+
+
 Insert/Delete time O\(n\)
 
 Access time O\(1\)

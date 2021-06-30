@@ -222,6 +222,7 @@
 
 ## Leetcode
 
+* [分类必刷题](leetcode/fen-lei-bi-shua-ti.md)
 * [刷题打卡](leetcode/shua-ti-da-ka.md)
 * [Good resources](leetcode/good-resources.md)
 * [Array](leetcode/untitled.md)
