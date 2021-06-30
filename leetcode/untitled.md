@@ -18,6 +18,8 @@ Access time O\(1\)
 
 
 
+Meeting intervals : sweep line
+
 
 
 
