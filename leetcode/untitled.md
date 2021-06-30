@@ -28,6 +28,8 @@ Meeting intervals : sweep line
 
 
 
+Search in rotated sorted array:  bs compare with target and narrow down range, but with rotated, range is not defined has multiple, we need to know which range target is in.
+
 
 
 
