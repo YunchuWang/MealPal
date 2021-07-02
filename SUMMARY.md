@@ -240,6 +240,7 @@
 * [Stack](leetcode/stack.md)
 * [Two Pointer](leetcode/two-pointer.md)
 * [Heap](leetcode/heap.md)
+* [LinkedList](leetcode/linkedlist.md)
 
 ## Learning
 
