@@ -6,6 +6,8 @@
 
 Structure: 
 
+lookup O\(1\), insert\(1\)
+
 key value,
 
 array of linkedlist, index is key, value is linkedlist
