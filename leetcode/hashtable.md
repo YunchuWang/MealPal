@@ -14,5 +14,7 @@ array of linkedlist, index is key, value is linkedlist
 
 key is getting by some input going through hash function mod arrSize
 
+if collisions above .75, rehashing by expanding arr and redefine hash function
+
 
 
