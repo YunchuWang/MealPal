@@ -20,3 +20,11 @@ if collisions above .75, rehashing by expanding arr and redefine hash function
 
 
 
+prefix sum 问题
+
+{% embed url="https://blog.csdn.net/ch\_609583349/article/details/106423315" %}
+
+
+
+
+
