@@ -14,3 +14,13 @@ Idea is to narrow down search range between lower and upper bounds maintained by
 
    3. Found then return, else continue.
 
+
+
+模板
+
+两种
+
+简单题：while\(i &lt;= j\), i+1, j-1, 判断i或j
+
+复杂题：while\(i &lt; j\) i=mid, j=mid-1 or i = mid+1, j=mid, 结果i==j，直接判断i
+
