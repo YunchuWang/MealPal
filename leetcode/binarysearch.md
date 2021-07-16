@@ -12,7 +12,7 @@ Idea is to narrow down search range between lower and upper bounds maintained by
 
    3. We narrow down range
 
-   3. Found then return, else continue.
+   4. Found then return, else continue.
 
 
 
