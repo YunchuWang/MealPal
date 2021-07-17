@@ -20,6 +20,8 @@ set key value
 
 get key
 
+expire key seconds - set expiration time for key
+
 
 
 Why redis is single threaded?
