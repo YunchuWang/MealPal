@@ -22,6 +22,8 @@ get key
 
 expire key seconds - set expiration time for key
 
+setex key exptime\(s\) value
+
 
 
 Why redis is single threaded?
