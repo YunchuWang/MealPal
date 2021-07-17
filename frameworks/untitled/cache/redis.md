@@ -2,6 +2,8 @@
 
 In memory, key store db.
 
+Data type: Set, List, String,
+
 default 16 databases, and default use first db
 
 default port: 6379
