@@ -16,6 +16,10 @@ flushall - flush all dbs
 
 exists x - whether key exists
 
+set key value
+
+get key
+
 
 
 Why redis is single threaded?
