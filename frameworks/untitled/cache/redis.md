@@ -34,5 +34,11 @@ setnx key value - set key if not exists
 
 
 
+**Eviction policy**
+
+{% embed url="https://docs.redislabs.com/latest/rs/administering/database-operations/eviction-policy/" %}
+
+\*\*\*\*
+
 
 
