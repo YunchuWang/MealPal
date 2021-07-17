@@ -24,6 +24,8 @@ expire key seconds - set expiration time for key
 
 setex key exptime\(s\) value
 
+setnx key value - set key if not exists
+
 
 
 Why redis is single threaded?
