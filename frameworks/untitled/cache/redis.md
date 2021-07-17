@@ -14,6 +14,8 @@ flushdb - flush cur db
 
 flushall - flush all dbs
 
+exists x - whether key exists
+
 
 
 Why redis is single threaded?
