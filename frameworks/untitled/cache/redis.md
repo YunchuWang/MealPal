@@ -2,5 +2,5 @@
 
 In memory, key store db.
 
-default 
+default 16 databases, and default use first db
 
