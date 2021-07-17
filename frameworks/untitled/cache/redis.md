@@ -28,7 +28,7 @@ setnx key value - set key if not exists
 
 
 
-Why redis is single threaded?
+**Why redis is single threaded?**
 
 {% embed url="https://www.cnblogs.com/javastack/p/12848446.html" %}
 
