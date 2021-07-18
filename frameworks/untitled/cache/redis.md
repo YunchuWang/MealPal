@@ -2,7 +2,7 @@
 
 In memory, key store db.
 
-Data type: Set, List, String, HashMap, ZSet\(sorted\), geo
+Data type: Set, List, String, HashMap, ZSet\(sorted\), geo, bitmap
 
 default 16 databases, and default use first db
 
