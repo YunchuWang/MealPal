@@ -226,13 +226,13 @@
 
 ## Leetcode
 
-* [QuickSelect](leetcode/quickselect.md)
 * [分类必刷题](leetcode/fen-lei-bi-shua-ti.md)
 * [刷题打卡](leetcode/shua-ti-da-ka.md)
 * [Good resources](leetcode/good-resources.md)
 * [String](leetcode/string.md)
 * [Trie](leetcode/trie.md)
 * [Array](leetcode/untitled.md)
+* [QuickSelect](leetcode/quickselect.md)
 * [Backtracking](leetcode/backtracking.md)
 * [BinarySearch](leetcode/binarysearch.md)
 * [Bfs](leetcode/bfs.md)
