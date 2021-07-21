@@ -6,5 +6,5 @@
 
 
 
-反向
+Substring can be two pointer
 
