@@ -8,5 +8,7 @@
 
 {% embed url="http://chen-tao.github.io/2017/01/27/al-template/" %}
 
+{% embed url="https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/tree" %}
+
 
 
