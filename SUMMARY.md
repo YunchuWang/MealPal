@@ -139,6 +139,7 @@
       * [Intro](frameworks/distributed-system/coordinator/zookeeper/intro.md)
       * [Dynamic reconfiguration](frameworks/distributed-system/coordinator/zookeeper/dynamic-reconfiguration.md)
 * [Database](frameworks/database/README.md)
+  * [NoSql](frameworks/database/nosql.md)
   * [MySql](frameworks/database/mysql/README.md)
     * [ACID](frameworks/database/mysql/acid.md)
   * [Primary Key immutable](frameworks/database/primary-key-immutable.md)
