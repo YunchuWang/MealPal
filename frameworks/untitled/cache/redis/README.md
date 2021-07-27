@@ -34,7 +34,11 @@ _**Locking**_
 
 {% embed url="https://www.zhihu.com/question/294599028" %}
 
-_\*\*\*\*_
+_**its distributed lock.**_
+
+乐观锁
+
+悲观锁
 
 
 
