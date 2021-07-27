@@ -30,6 +30,16 @@ setnx key value - set key if not exists
 
 
 
+_**Locking**_
+
+{% embed url="https://www.zhihu.com/question/294599028" %}
+
+_\*\*\*\*_
+
+
+
+_**Questions**_
+
 **Why redis is single threaded?**
 
 {% embed url="https://www.cnblogs.com/javastack/p/12848446.html" %}
@@ -40,7 +50,7 @@ setnx key value - set key if not exists
 
 {% embed url="https://docs.redislabs.com/latest/rs/administering/database-operations/eviction-policy/" %}
 
-\*\*\*\*
+
 
 
 
