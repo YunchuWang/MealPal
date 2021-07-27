@@ -34,11 +34,17 @@ _**Locking**_
 
 {% embed url="https://www.zhihu.com/question/294599028" %}
 
-_**its distributed lock.**_
+its distributed lock.
 
 乐观锁
 
 悲观锁
+
+
+
+_**Jedis**_
+
+
 
 
 
