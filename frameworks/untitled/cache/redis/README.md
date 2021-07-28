@@ -54,7 +54,7 @@ See austinapi service
 
 
 
-_**Redis.Config**_
+### _**Redis.Config**_
 
 redis server config file
 
@@ -65,6 +65,34 @@ redis server config file
 5. loglevel notice
 6. logfile path
 7. databases count
+
+
+
+Persistence
+
+save num of seconds num of keys changed - rdb
+
+Security
+
+requirepassword default false
+
+Client Limit
+
+maxclients 1000
+
+maxmemory bytes
+
+maxmemory-policy noeviction
+
+Append only settings
+
+appendonly no \# default use rdb is enough
+
+appendfilename "appendonly.aof"
+
+appendfsync everysec \# every second append
+
+{% embed url="https://redislabs.com/ebook/part-2-core-concepts/chapter-4-keeping-data-safe-and-ensuring-performance/4-1-persistence-options/4-1-2-append-only-file-persistence/" %}
 
 
 
