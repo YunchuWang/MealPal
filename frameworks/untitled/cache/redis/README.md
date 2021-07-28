@@ -100,6 +100,10 @@ appendfsync everysec \# every second append
 
 {% embed url="https://redislabs.com/ebook/part-2-core-concepts/chapter-4-keeping-data-safe-and-ensuring-performance/4-1-persistence-options/4-1-2-append-only-file-persistence/" %}
 
+### 
+
+### 
+
 ### RDB
 
 ![](../../../../.gitbook/assets/image%20%289%29.png)
@@ -113,6 +117,8 @@ dump.rdb file generation time:
 1. RDB triggered
 2. Flushall （clear dbs\)
 3. stop redis server
+
+
 
 _**Questions**_
 
