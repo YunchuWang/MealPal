@@ -54,6 +54,10 @@ _**Questions**_
 
 {% embed url="https://www.cnblogs.com/javastack/p/12848446.html" %}
 
+Jedis vs lettuce?
+
+{% embed url="https://juejin.cn/post/6844903985158045703" %}
+
 
 
 **Eviction policy**
