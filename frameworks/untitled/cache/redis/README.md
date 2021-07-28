@@ -58,6 +58,8 @@ Jedis vs lettuce?
 
 {% embed url="https://juejin.cn/post/6844903985158045703" %}
 
+{% embed url="https://blog.csdn.net/qq\_36666651/article/details/80955398" %}
+
 
 
 **Eviction policy**
