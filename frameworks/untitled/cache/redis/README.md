@@ -92,9 +92,21 @@ appendfilename "appendonly.aof"
 
 appendfsync everysec \# every second append
 
+
+
+
+
+### AOF
+
 {% embed url="https://redislabs.com/ebook/part-2-core-concepts/chapter-4-keeping-data-safe-and-ensuring-performance/4-1-persistence-options/4-1-2-append-only-file-persistence/" %}
 
+### RDB
 
+![](../../../../.gitbook/assets/image%20%289%29.png)
+
+Dump.rdb file
+
+持久化文件会被自动读入redis当启动
 
 _**Questions**_
 
