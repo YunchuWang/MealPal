@@ -1,5 +1,11 @@
 # Redis
 
+**How to start**
+
+Download docker redis, run redis-cli in remote shell
+
+**Basic info**
+
 In memory, key store db.
 
 Data type: Set, List, String, HashMap, ZSet\(sorted\), geo, hyperlogs, bitmap
