@@ -108,6 +108,12 @@ Dump.rdb file
 
 持久化文件会被自动读入redis当启动
 
+dump.rdb file generation time:
+
+1. RDB triggered
+2. Flushall （clear dbs\)
+3. stop redis server
+
 _**Questions**_
 
 **Why redis is single threaded?**
