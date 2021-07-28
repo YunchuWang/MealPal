@@ -48,9 +48,23 @@ its distributed lock.
 
 
 
-_**Jedis**_
+_**Jedis/Lettuce**_
+
+See austinapi service
 
 
+
+_**Redis.Config**_
+
+redis server config file
+
+1. bind ip
+2. port 
+3. protected-mode
+4. daemonize yes
+5. loglevel notice
+6. logfile path
+7. databases count
 
 
 
