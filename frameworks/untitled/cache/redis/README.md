@@ -102,7 +102,7 @@ appendfsync everysec \# every second append
 
 redis-check-aof --fixed             repair aof log
 
-![](../../../../.gitbook/assets/image%20%2811%29.png)
+![](../../../../.gitbook/assets/image%20%2813%29.png)
 
 no-appendfsync-on-rewrite no
 
@@ -110,7 +110,7 @@ auto-aof-rewrite-percentage 100
 
 auto-aof-rewrite-min-size 64mb
 
-![](../../../../.gitbook/assets/image%20%2810%29.png)
+![](../../../../.gitbook/assets/image%20%2811%29.png)
 
 
 
@@ -129,6 +129,28 @@ dump.rdb file generation time:
 3. stop redis server
 
 
+
+### Redis Pub/Sub
+
+![](../../../../.gitbook/assets/image%20%2812%29.png)
+
+![](../../../../.gitbook/assets/image%20%2815%29.png)
+
+_\*\*\*\*_
+
+### Master-Slave
+
+![](../../../../.gitbook/assets/image%20%2810%29.png)
+
+_\*\*\*\*_
+
+![](../../../../.gitbook/assets/image%20%2814%29.png)
+
+_\*\*\*\*_
+
+_\*\*\*\*_
+
+_\*\*\*\*_
 
 _**Questions**_
 
