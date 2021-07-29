@@ -102,13 +102,17 @@ appendfsync everysec \# every second append
 
 redis-check-aof --fixed             repair aof log
 
-![](../../../../.gitbook/assets/image%20%2810%29.png)
+![](../../../../.gitbook/assets/image%20%2811%29.png)
 
 no-appendfsync-on-rewrite no
 
 auto-aof-rewrite-percentage 100
 
 auto-aof-rewrite-min-size 64mb
+
+![](../../../../.gitbook/assets/image%20%2810%29.png)
+
+
 
 ### RDB
 
