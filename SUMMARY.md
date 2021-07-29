@@ -97,7 +97,6 @@
     * [Redisson](frameworks/untitled/distributed-locking/redisson.md)
   * [Caching](frameworks/untitled/caching/README.md)
     * [Read](frameworks/untitled/caching/read.md)
-    * [Write](frameworks/untitled/caching/write.md)
   * [Rest](frameworks/untitled/rest.md)
   * [Service discovery](frameworks/untitled/service-discovery.md)
   * [HTTPS](frameworks/untitled/https.md)
