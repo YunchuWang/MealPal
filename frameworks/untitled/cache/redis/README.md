@@ -100,9 +100,15 @@ appendfsync everysec \# every second append
 
 {% embed url="https://redislabs.com/ebook/part-2-core-concepts/chapter-4-keeping-data-safe-and-ensuring-performance/4-1-persistence-options/4-1-2-append-only-file-persistence/" %}
 
-### 
+redis-check-aof --fixed             repair aof log
 
-### 
+![](../../../../.gitbook/assets/image%20%2810%29.png)
+
+no-appendfsync-on-rewrite no
+
+auto-aof-rewrite-percentage 100
+
+auto-aof-rewrite-min-size 64mb
 
 ### RDB
 
