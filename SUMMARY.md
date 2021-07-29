@@ -95,8 +95,6 @@
     * [Thread safety](frameworks/untitled/multithreading/thread-safety.md)
   * [Distributed locking](frameworks/untitled/distributed-locking/README.md)
     * [Redisson](frameworks/untitled/distributed-locking/redisson.md)
-  * [Caching](frameworks/untitled/caching/README.md)
-    * [Read](frameworks/untitled/caching/read.md)
   * [Rest](frameworks/untitled/rest.md)
   * [Service discovery](frameworks/untitled/service-discovery.md)
   * [HTTPS](frameworks/untitled/https.md)
