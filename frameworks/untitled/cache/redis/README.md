@@ -146,7 +146,9 @@ _\*\*\*\*_
 
 ![](../../../../.gitbook/assets/image%20%2814%29.png)
 
-_\*\*\*\*_
+See docker-compose.yml in redis-docker for setting up cluster mode
+
+Async by nature to replication
 
 _\*\*\*\*_
 
