@@ -130,6 +130,7 @@
     * [Spring boot lab](frameworks/untitled/spring-boot/spring-boot-lab.md)
     * [Testing](frameworks/untitled/spring-boot/testing.md)
 * [Distributed system](frameworks/distributed-system/README.md)
+  * [Raft](frameworks/distributed-system/raft.md)
   * [Primary backup replication](frameworks/distributed-system/primary-backup-replication.md)
   * [CAP](frameworks/distributed-system/cap.md)
   * [Coordinator](frameworks/distributed-system/coordinator/README.md)

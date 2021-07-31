@@ -102,7 +102,7 @@ appendfsync everysec \# every second append
 
 redis-check-aof --fixed             repair aof log
 
-![](../../../../.gitbook/assets/image%20%2813%29.png)
+![](../../../../.gitbook/assets/image%20%2814%29.png)
 
 no-appendfsync-on-rewrite no
 
@@ -132,9 +132,9 @@ dump.rdb file generation time:
 
 ### Redis Pub/Sub
 
-![](../../../../.gitbook/assets/image%20%2812%29.png)
+![](../../../../.gitbook/assets/image%20%2813%29.png)
 
-![](../../../../.gitbook/assets/image%20%2815%29.png)
+![](../../../../.gitbook/assets/image%20%2816%29.png)
 
 _\*\*\*\*_
 
@@ -144,15 +144,23 @@ _\*\*\*\*_
 
 _\*\*\*\*_
 
-![](../../../../.gitbook/assets/image%20%2814%29.png)
+![](../../../../.gitbook/assets/image%20%2815%29.png)
 
 See docker-compose.yml in redis-docker for setting up cluster mode
 
 Async by nature to replication
 
-_\*\*\*\*_
+![](../../../../.gitbook/assets/image%20%2812%29.png)
 
-_\*\*\*\*_
+Without sentinel, once master is disconnected, there is no auto fail over and new master, manual failover takes downtime and efforts
+
+### Sentinel
+
+{% embed url="https://zhuanlan.zhihu.com/p/60632927" %}
+
+
+
+
 
 _**Questions**_
 
