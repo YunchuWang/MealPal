@@ -267,3 +267,8 @@
 
 * [Home](communication/home.md)
 
+## CS applications
+
+* [Big Data](cs-applications/big-data/README.md)
+  * [BitMap](cs-applications/big-data/bitmap.md)
+
