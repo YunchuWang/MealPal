@@ -142,6 +142,7 @@
       * [Intro](frameworks/distributed-system/coordinator/zookeeper/intro.md)
       * [Dynamic reconfiguration](frameworks/distributed-system/coordinator/zookeeper/dynamic-reconfiguration.md)
 * [Database](frameworks/database/README.md)
+  * [Time-Series DB](frameworks/database/time-series-db.md)
   * [NoSql](frameworks/database/nosql/README.md)
     * [Cassandra](frameworks/database/nosql/cassandra/README.md)
       * [Basics](frameworks/database/nosql/cassandra/basics.md)
