@@ -4,5 +4,7 @@
 
 {% embed url="https://www.ruanyifeng.com/blog/2011/08/what\_is\_a\_digital\_signature.html" %}
 
+{% embed url="https://www.yiibai.com/security\_testing/encoding\_and\_decoding.html" %}
+
 
 
