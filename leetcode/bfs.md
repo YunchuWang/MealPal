@@ -39,3 +39,7 @@ while (!q.empty())
 
 遍历层可以每次poll q size的nodes 或者放入空node mark 每层的end
 
+
+
+Identify states to bfs on
+
