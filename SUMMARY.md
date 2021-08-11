@@ -240,6 +240,7 @@
 * [刷题打卡](leetcode/shua-ti-da-ka.md)
 * [Good resources](leetcode/good-resources.md)
 * [String](leetcode/string.md)
+* [Game Theory](leetcode/game-theory.md)
 * [Trie](leetcode/trie.md)
 * [Array](leetcode/untitled.md)
 * [QuickSelect](leetcode/quickselect.md)
