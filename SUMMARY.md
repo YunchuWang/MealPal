@@ -135,6 +135,7 @@
     * [Spring boot lab](frameworks/untitled/spring-boot/spring-boot-lab.md)
     * [Testing](frameworks/untitled/spring-boot/testing.md)
 * [Distributed system](frameworks/distributed-system/README.md)
+  * [Distributed lock](frameworks/distributed-system/distributed-lock.md)
   * [Election](frameworks/distributed-system/election.md)
   * [Raft](frameworks/distributed-system/raft.md)
   * [Primary backup replication](frameworks/distributed-system/primary-backup-replication.md)
