@@ -221,6 +221,7 @@
 ## Interviews
 
 * [Sharing](interviews/sharing.md)
+* [Behavior](interviews/behavior.md)
 * [Interview guide](interviews/interview-guide.md)
 * [System design](interviews/system-design/README.md)
   * [思路](interviews/system-design/da-ka.md)
