@@ -12,3 +12,15 @@ print array
 Arrays.toString(int[])
 ```
 
+sort array
+
+```text
+Arrays.sort(int[] or int[][])
+```
+
+sort list
+
+```text
+Collections.sort(list)
+```
+
