@@ -8,7 +8,7 @@
 
 **Receive critical feedback**
 
- _In the past, I’ve been told to pay attention to_ 
+ _In the past, I’ve been told to_ 
 
 #### Tell me about a time you overcame an obstacle
 
