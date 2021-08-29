@@ -16,5 +16,7 @@ Last step
 
 
 
+Try to figure out brute force first!
+
 确定状态
 
