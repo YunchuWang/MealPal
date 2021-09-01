@@ -29,6 +29,13 @@ regex
 
 
 ```text
+String Str = new String("Welcome to Tutorialspoint.com");
+
+      System.out.print("Return Value :" );
+      System.out.println(Str.matches("(.*)Tutorials(.*)"));
+```
+
+```text
 Pattern pattern = Pattern.compile("w3schools", Pattern.CASE_INSENSITIVE);
     Matcher matcher = pattern.matcher("Visit W3Schools!");
     boolean matchFound = matcher.find();
