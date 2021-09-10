@@ -88,13 +88,17 @@ Each interviewer will ask a situational question and will be assessing you on on
 
 ·         Can you share an experience where a project dramatically shifted directions at the last minute? What did you do?
 
-          
+          N/A
 
 1.      Drive for Results
 
 ·         Tell me about a time you went above and beyond in your role to complete a project or a task.
 
-·         Tell me about a specific project where you felt you made the most impact, and why?
+·        Digital currency settlement design. 
+
+         Tell me about a specific project where you felt you made the most impact, and why?
+
+          Digital currency settlement.
 
 ·         What single project or task would you consider your most significant career accomplishment to date? Walk me through the plan, how you managed it, how you measured its success, and what the biggest mistakes you made were.
 
@@ -102,7 +106,11 @@ Each interviewer will ask a situational question and will be assessing you on on
 
 ·         Tell me about a time you had to deal with a specific customer issue. How did you \(not your team\) help to fix the problem for the customer?
 
+         AWS bug
+
 ·         Please provide me with an example of how you solved a customer inquiry at your previous job. What were the exact steps you used.
+
+         File upload
 
 ·         Describe a situation where you made changes to standard procedures in order to increase customer satisfaction metrics. How did you get support for this? What constraints did you face? How did you measure the outcome?
 
@@ -116,7 +124,7 @@ Each interviewer will ask a situational question and will be assessing you on on
 
 **Receive critical feedback**
 
- _In the past, I’ve been told to_ 
+ _In the past, I’ve been told to aws batch job_
 
 #### Tell me about a time you overcame an obstacle
 
