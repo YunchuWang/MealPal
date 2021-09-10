@@ -2,7 +2,7 @@
 
 **Tell me about yourself**
 
-      I have been in the industry for over 3 years, primarily working in web backend and full stack development. Well, I am currently a software engineer at Visa, where I design and develop features for enterprise reconciliation system which reconciles millions of transactions for Visa per day within a team of developers, qa engineers, and treasury clients. Now I am looking to expand my experience across different industries, particularly in insuretech, which is why i am so interested in joining Ethos life.
+      I have been in the industry for over 3 years, primarily working in web backend and full stack development. Well, I am currently a software engineer at Visa, where I design and develop features for enterprise reconciliation system which reconciles millions of transactions for Visa per day within a team of developers, qa engineers, and treasury clients. Now I am looking to expand my experience across different industries, particularly in XXX, which is why i am so interested in joining XXX.
 
 
 
