@@ -2,7 +2,7 @@
 
 **Tell me about yourself**
 
-      I have been in the industry for over 3 years, primarily working in web backend and full stack development. Well, I am currently a software engineer at Visa, where I design and develop features for enterprise reconciliation system which reconciles millions of transactions for Visa per day within a team of developers, qa engineers, and treasury clients. Now I am looking to expand my experience across different industries, particularly in XXX, which is why i am so interested in joining XXX.
+      I have been in the industry for over 3 years, primarily working in web backend and full stack development. I am currently a software engineer at Visa for over a year. I enjoy my job because team are collaborative and work towards same goal. In my recent assignment I was on a project that lasted nine months. I made a significant contribution because of my expertise in java and software development. One of my strengths is my attention to detail. I am known for being very thorough and meeting or exceeding deadlines and goals. My boss knows that I work well under minimal supervision, that I am very conscientious and that the job will be done right the first time. Now I am looking to expand my experience across different industries, particularly in XXX, which is why i am so interested in joining XXX. 
 
 
 
@@ -20,5 +20,13 @@ For Amazon: I'm looking for an opportunity where I can fully leverage my skills 
 
 For Visa: I am seeking out opportunities that will allow me to make full use of my newly acquired backend and cloud skills.
 
-     
+ 
+
+**Why do you want to work here?**
+
+Do research and say company culture, products, accomplishment or any blogs
+
+Study job description and say what attracts you and match you
+
+List a few things about the job aligning with your career goals
 
