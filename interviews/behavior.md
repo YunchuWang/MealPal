@@ -18,25 +18,77 @@ Each interviewer will ask a situational question and will be assessing you on on
 
 ·         Tell me about a time when you were asked to do something you had never done before. How did you react? What did you learn?
 
+        Fidelity desktop app
+
+        Situation:
+
+        Task:
+
+        Action:
+
+        Result:
+
 ·         Describe a situation in which you embraced a new system, process, technology, or idea at work that was a major departure from the old way of doing things.
+
+         Janitor 
+
+         Situation:
+
+        Task:
+
+        Action:
+
+        Result:
 
 ·         Recall a time when you were assigned a task outside of your job description. How did you handle the situation? What was the outcome?
 
+       n/a
+
+       Situation:
+
+        Task:
+
+        Action:
+
+        Result:
+
 ·         Tell me about the biggest change that you have had to deal with. How did you adapt to that change?
 
+        People left team, workload increase.
+
+         Situation:
+
+        Task:
+
+        Action:
+
+        Result:
+
 ·         Tell me about a time when you had to adjust to a colleague’s working style in order to complete a project or achieve your objectives.
+
+          Worked with QA on testing file upload, i prefer he understands the story context first and discuss with me quickly before opening bug report but he prefers opening.
 
 1.      Collaboration
 
 ·         Give an example of when you had to work with someone who was difficult to get along with. How did you handle interactions with that person?
 
+          DBA
+
 ·         Tell me about a time when you were communicating with someone and they did not understand you. What did you do? What was the outcome?
+
+            Concurrency
 
 ·         Tell me about one of your favorite experiences working with a team and your contribution.
 
+           digital currency settlement project
+
 ·         Describe the best partner or supervisor with whom you’ve worked. What part of their managing style appealed to you?
 
+          Visa manager.
+
 ·         Can you share an experience where a project dramatically shifted directions at the last minute? What did you do?
+
+          
 
 1.      Drive for Results
 
