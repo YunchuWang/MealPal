@@ -2,6 +2,12 @@
 
 **Resume**
 
+Current work
+
+digital currency settlement project: 
+
+tech used: java spring boot aop, state machine, tls, internal cron job tool, jenkins
+
 
 
 **Tell me about yourself**
