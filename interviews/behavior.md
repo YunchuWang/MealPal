@@ -1,5 +1,9 @@
 # Behavior
 
+**Resume**
+
+
+
 **Tell me about yourself**
 
       I have been in the industry for over 3 years, primarily working in web backend and full stack development. I am currently a software engineer at Visa for over a year. I enjoy my job because team are collaborative and work towards same goal. In my recent assignment I was on a project that lasted nine months. I made a significant contribution because of my expertise in java and software development. One of my strengths is my attention to detail. I am known for being very thorough and meeting or exceeding deadlines and goals. My boss knows that I work well under minimal supervision, that I am very conscientious and that the job will be done right the first time. Now I am looking to expand my experience across different industries, particularly in XXX, which is why i am so interested in joining XXX. 
