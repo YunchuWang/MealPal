@@ -152,6 +152,7 @@
     * [Cassandra](frameworks/database/nosql/cassandra/README.md)
       * [Basics](frameworks/database/nosql/cassandra/basics.md)
       * [Set up](frameworks/database/nosql/cassandra/set-up.md)
+      * [LSM Tree](frameworks/database/nosql/cassandra/lsm-tree.md)
   * [MySql](frameworks/database/mysql/README.md)
     * [Transaction](frameworks/database/mysql/transaction.md)
     * [Transaction progoation](frameworks/database/mysql/transaction-progoation.md)
