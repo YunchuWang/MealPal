@@ -1,3 +1,8 @@
+---
+description: >-
+  https://xiaoxiami.gitbook.io/elasticsearch/ji-chu/35query-dsldslfang-shi-cha-8be229/354zhu-yu-ji-bie-cha-8be228-term-level-queries/range-cha-8be228-fan-wei-cha-8be229
+---
+
 # ElasticSearch
 
 ElasticSearch 基于luecne 一个信息检索工具
