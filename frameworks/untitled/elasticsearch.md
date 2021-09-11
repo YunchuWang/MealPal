@@ -19,7 +19,13 @@ Fuzzy match: tokenize term and return all results
 
 如果是keyword类型的字段，不会被分词器解析
 
-[https://www.jianshu.com/p/0030296960d4](https://www.jianshu.com/p/0030296960d4)
+{% embed url="https://www.jianshu.com/p/0030296960d4" %}
+
+
+
+{% embed url="https://bbs.huaweicloud.com/blogs/222697" %}
+
+
 
 
 
