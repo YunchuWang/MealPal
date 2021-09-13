@@ -52,6 +52,8 @@ Each interviewer will ask a situational question and will be assessing you on on
 
          Janitor 
 
+          At Aws, 2 weeks before a release, i was assigned to develop a janitor batch app to clean up orphaned dns records in route53.
+
          Situation:
 
         Task:
@@ -74,7 +76,7 @@ Each interviewer will ask a situational question and will be assessing you on on
 
 ·         Tell me about the biggest change that you have had to deal with. How did you adapt to that change?
 
-        People left team, workload increase.
+        People left team, workload increase, talk to manager and team to understand the priorities and see which stories can be backlog. 
 
          Situation:
 
@@ -86,13 +88,13 @@ Each interviewer will ask a situational question and will be assessing you on on
 
 ·         Tell me about a time when you had to adjust to a colleague’s working style in order to complete a project or achieve your objectives.
 
-          Worked with QA on testing file upload, i prefer he understands the story context first and discuss with me quickly before opening bug report but he prefers opening.
+          Worked with QA on testing file upload, i prefer he understands the story context first and discuss with me quickly before opening bug report but he prefers opening bug directly and discuss later. I listened to his opinion and 
 
 1.      Collaboration
 
 ·         Give an example of when you had to work with someone who was difficult to get along with. How did you handle interactions with that person?
 
-          DBA
+          DBA. DBA guy often delay delivering 
 
 ·         Tell me about a time when you were communicating with someone and they did not understand you. What did you do? What was the outcome?
 
