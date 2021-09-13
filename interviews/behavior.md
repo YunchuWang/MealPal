@@ -40,6 +40,8 @@ Each interviewer will ask a situational question and will be assessing you on on
 
         Situation:
 
+            At fidelity, qa engineer faces heavy workload to manually convert test db queries from oracle to h2 dialect as testcases volumne grow. I was assigned a task to create a new tool to automatically convert given oracle dml queries to h2 dml queries. I was given less than a week, i sit with qa engineer to clarify requirements, built the design myself and implemented it. i also went beyond requirement to quickly learn and built a wizard ui with java swing lib. As result, qa workload reduces by 40%
+
         Task:
 
         Action:
