@@ -52,7 +52,7 @@ Each interviewer will ask a situational question and will be assessing you on on
 
          Janitor 
 
-          At Aws, 2 weeks before a release, i was assigned to develop a janitor batch app to clean up orphaned dns records in route53.
+          At Aws, 2 weeks before a release, i was assigned to develop a janitor batch app to clean up orphaned dns records in route53. It was my first time working on new batch app in cloud environment. 
 
          Situation:
 
