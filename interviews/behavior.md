@@ -24,6 +24,10 @@ Cron job:
 
 Every day should recevie 3 types per file from upper stream -&gt; db -&gt; cr -&gt; fw
 
+Retry exponential backoff, client side rate limit, TLS certificate connecting to proxy and vault, setup non prod/prod api keys via ecdsa key gen algo
+
+
+
 **4 Areas of CORE VALUES evaluation:**
 
 Each interviewer will ask a situational question and will be assessing you on one specific competency \(**Adaptability, Collaboration, Drive for Results, or Customer Focus**\). Try to determine which competency the interviewer may be looking for as you listen to their question carefully before you respond. Try to respond highlighting that competency. These competencies are listed below with sample interview questions
