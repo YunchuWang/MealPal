@@ -8,7 +8,21 @@ digital currency settlement project:
 
 tech used: java spring boot aop, state machine, tls, internal cron job tool, jenkins
 
+Three types of payment files in csv format
 
+credit: check visa main vault bal then send from visa main vault to acquirer vault 
+
+debit: send money from issuer vault to visa main vault
+
+fundwire: move money from visa trading vault to/from visa main vault for minting/burning
+
+FT-API flow:
+
+    control file arrive -&gt; kick off job stream -&gt; FT-API parse files -&gt; filter pattern check for dup data file, sett amount and record ct match in data/control file -&gt; job retry -&gt; get api signing key and transfer key from visa vault -&gt; process payment one by one via state machine -&gt; if succeed record actual transaction else 400 record failed 500 generate new data/control file for retry
+
+Cron job:
+
+Every day should recevie 3 types per file from upper stream -&gt; db -&gt; cr -&gt; fw
 
 **4 Areas of CORE VALUES evaluation:**
 
