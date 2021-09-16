@@ -222,7 +222,8 @@
 ## Interviews
 
 * [Sharing](interviews/sharing.md)
-* [Behavior](interviews/behavior.md)
+* [Behavior](interviews/behavior/README.md)
+  * [Team match](interviews/behavior/team-match.md)
 * [Java apis](interviews/java-apis.md)
 * [Interview guide](interviews/interview-guide.md)
 * [System design](interviews/system-design/README.md)
