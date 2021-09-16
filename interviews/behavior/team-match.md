@@ -7,4 +7,5 @@
 3. What's the tech stack used by your team?
 4. What do they like to do outside of work?
 5. How would you describe your approach to management of engineers?
+6. Do you have any recommendations about how I can gain a better understanding of
 
