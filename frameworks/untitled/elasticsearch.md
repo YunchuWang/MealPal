@@ -23,6 +23,12 @@ Fuzzy match: tokenize term and return all results
 
 
 
+spring 高级搜索
+
+[https://blog.csdn.net/qq\_41879343/article/details/107452444](https://blog.csdn.net/qq_41879343/article/details/107452444)
+
+
+
 {% embed url="https://bbs.huaweicloud.com/blogs/222697" %}
 
 
