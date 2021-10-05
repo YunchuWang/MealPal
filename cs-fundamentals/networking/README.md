@@ -18,3 +18,7 @@ mac 是不变的机器物理地址，ip是unique但可变的。
 
 实际上通信是根据mac 地址在链路层，ip是封装的逻辑层
 
+[https://blog.csdn.net/qq\_39414668/article/details/79594012](https://blog.csdn.net/qq_39414668/article/details/79594012)
+
+
+
