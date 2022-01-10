@@ -8,7 +8,7 @@ Download docker redis, run redis-cli in remote shell
 
 In memory, key store db.
 
-Data type: Set, List, String, HashMap, ZSet\(sorted\), geo, hyperlogs, bitmap
+Data type: Set, List, String, HashMap, ZSet(sorted), geo, hyperlogs, bitmap
 
 default 16 databases, and default use first db
 
@@ -30,7 +30,7 @@ get key
 
 expire key seconds - set expiration time for key
 
-setex key exptime\(s\) value
+setex key exptime(s) value
 
 setnx key value - set key if not exists
 
@@ -59,7 +59,7 @@ See austinapi service
 redis server config file
 
 1. bind ip
-2. port 
+2. port&#x20;
 3. protected-mode
 4. daemonize yes
 5. loglevel notice
@@ -86,11 +86,11 @@ maxmemory-policy noeviction
 
 Append only settings
 
-appendonly no \# default use rdb is enough
+appendonly no # default use rdb is enough
 
 appendfilename "appendonly.aof"
 
-appendfsync everysec \# every second append
+appendfsync everysec # every second append
 
 
 
@@ -102,7 +102,7 @@ appendfsync everysec \# every second append
 
 redis-check-aof --fixed             repair aof log
 
-![](../../../../.gitbook/assets/image%20%2814%29.png)
+![](<../../../../.gitbook/assets/image (14).png>)
 
 no-appendfsync-on-rewrite no
 
@@ -110,13 +110,13 @@ auto-aof-rewrite-percentage 100
 
 auto-aof-rewrite-min-size 64mb
 
-![](../../../../.gitbook/assets/image%20%2811%29.png)
+![](<../../../../.gitbook/assets/image (11).png>)
 
 
 
 ### RDB
 
-![](../../../../.gitbook/assets/image%20%289%29.png)
+![](<../../../../.gitbook/assets/image (9).png>)
 
 Dump.rdb file
 
@@ -125,32 +125,32 @@ Dump.rdb file
 dump.rdb file generation time:
 
 1. RDB triggered
-2. Flushall （clear dbs\)
+2. Flushall （clear dbs)
 3. stop redis server
 
 
 
 ### Redis Pub/Sub
 
-![](../../../../.gitbook/assets/image%20%2813%29.png)
+![](<../../../../.gitbook/assets/image (13).png>)
 
-![](../../../../.gitbook/assets/image%20%2816%29.png)
+![](<../../../../.gitbook/assets/image (16).png>)
 
-_\*\*\*\*_
+_****_
 
 ### Master-Slave
 
-![](../../../../.gitbook/assets/image%20%2810%29.png)
+![](<../../../../.gitbook/assets/image (10).png>)
 
-_\*\*\*\*_
+_****_
 
-![](../../../../.gitbook/assets/image%20%2815%29.png)
+![](<../../../../.gitbook/assets/image (15).png>)
 
 See docker-compose.yml in redis-docker for setting up cluster mode
 
 Async by nature to replication
 
-![](../../../../.gitbook/assets/image%20%2812%29.png)
+![](<../../../../.gitbook/assets/image (12).png>)
 
 Without sentinel, once master is disconnected, there is no auto fail over and new master, manual failover takes downtime and efforts
 
@@ -172,15 +172,13 @@ Jedis vs lettuce?
 
 {% embed url="https://juejin.cn/post/6844903985158045703" %}
 
-{% embed url="https://blog.csdn.net/qq\_36666651/article/details/80955398" %}
+{% embed url="https://blog.csdn.net/qq_36666651/article/details/80955398" %}
 
 
 
 **Eviction policy**
 
 {% embed url="https://docs.redislabs.com/latest/rs/administering/database-operations/eviction-policy/" %}
-
-
 
 
 

@@ -2,7 +2,7 @@
 
 {% embed url="https://medium.com/nlgn/http-push-and-pull-introduction-nlogn-c726c012662" %}
 
-{% embed url="http://www.ruanyifeng.com/blog/2018/03/http2\_server\_push.html" %}
+{% embed url="http://www.ruanyifeng.com/blog/2018/03/http2_server_push.html" %}
 
 
 
@@ -16,7 +16,7 @@ Client request for resource and need to keep checking, which can cause extra ban
 
 Push:
 
-Example push notification and nginx server \( check 阮一峰）
+Example push notification and nginx server ( check 阮一峰）
 
 {% embed url="https://developers.google.com/web/fundamentals/push-notifications/how-push-works" %}
 
@@ -29,4 +29,3 @@ Client send request to init and maintain connection with server, when server has
 Pub/Sub model
 
 Benefit, server side notify client when resource available.
-

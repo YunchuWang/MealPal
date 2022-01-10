@@ -4,9 +4,9 @@
 
 
 
-Structure: 
+Structure:&#x20;
 
-lookup O\(1\), insert\(1\)
+lookup O(1), insert(1)
 
 key value,
 
@@ -22,9 +22,7 @@ if collisions above .75, rehashing by expanding arr and redefine hash function
 
 prefix sum 问题
 
-{% embed url="https://blog.csdn.net/ch\_609583349/article/details/106423315" %}
-
-
+{% embed url="https://blog.csdn.net/ch_609583349/article/details/106423315" %}
 
 
 

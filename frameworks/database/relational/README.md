@@ -7,7 +7,5 @@ Advantage:
 
 Disadvantage:
 
- 2. Manual sharding
-
-
+&#x20;2\. Manual sharding
 

@@ -186,7 +186,7 @@
       * [Deep intro](frameworks/database/big-data/hbase/deep-intro.md)
   * [Database vs FileSystem](frameworks/database/database-vs-filesystem.md)
   * [Row storage vs Column storage](frameworks/database/row-storage-vs-column-storage.md)
-* [Page 1](frameworks/page-1.md)
+* [K8s](frameworks/k8s.md)
 
 ## CS fundamentals
 

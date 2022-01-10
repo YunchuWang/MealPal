@@ -1,6 +1,6 @@
 # Scalability
 
-Scalability = ability to ****maintain good performance under larger workload
+Scalability = ability to **** maintain good performance under larger workload
 
 There is no system scalable by definition as load can increase, but we need to think how to deal with higher load
 
@@ -16,7 +16,5 @@ response time can be affected by many variations: context switch, loss of tpc pa
 
 
 
-Every magnitude of load require rethink of architecture. We want to distribute load across different machines named shared nothing architecture. 
-
-
+Every magnitude of load require rethink of architecture. We want to distribute load across different machines named shared nothing architecture.&#x20;
 

@@ -2,7 +2,5 @@
 
 {% embed url="https://www.zhihu.com/question/20215561" %}
 
-{% embed url="https://www.ruanyifeng.com/blog/2017/05/server-sent\_events.html" %}
-
-
+{% embed url="https://www.ruanyifeng.com/blog/2017/05/server-sent_events.html" %}
 
