@@ -9,3 +9,5 @@
 {% embed url="https://segmentfault.com/a/1190000009724931" %}
 
 {% embed url="https://www.cnblogs.com/liunianshiwei/p/6045303.html" %}
+
+{% embed url="https://www.geeksforgeeks.org/named-pipe-fifo-example-c-program" %}
