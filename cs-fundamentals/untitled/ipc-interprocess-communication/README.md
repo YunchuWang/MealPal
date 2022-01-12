@@ -6,4 +6,6 @@
 
 {% embed url="https://stackoverflow.com/questions/5256599/what-are-file-descriptors-explained-in-simple-terms" %}
 
-[https://segmentfault.com/a/1190000009724931](https://segmentfault.com/a/1190000009724931)
+{% embed url="https://segmentfault.com/a/1190000009724931" %}
+
+{% embed url="https://www.cnblogs.com/liunianshiwei/p/6045303.html" %}
